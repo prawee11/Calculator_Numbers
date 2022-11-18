@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intents_Tutorial4</string>
+    <string name="txtNumber1">Number 1</string>
+    <string name="txtNumber2">Number 2</string>
+    <string name="btnOk">OK</string>
+    <string name="Number">Enter An Integer</string>
+    <string name="Addition">+</string>
+    <string name="minus">-</string>
+    <string name="devision">/</string>
+    <string name="multu">*</string>
+    <string name="textDisplay">%d %c %d = %d</string>
+    <string name="toastAdd">Plese enter Int</string>
+    <string name="toastMessage">Succsesfull navigate</string>
+</resources>
